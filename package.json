@@ -5,7 +5,8 @@
   "scripts": {
     "start": "webpack serve",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
